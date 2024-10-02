@@ -32,7 +32,7 @@ cd Xapiens_test
 ### 2. Install Go Dependencies
 
 ```bash
-go mod tidy
+go mod download
 ```
 
 ### 3. Build the Project
