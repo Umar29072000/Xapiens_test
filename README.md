@@ -27,21 +27,25 @@ Start by cloning the repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/Xapiens_test.git
 cd Xapiens_test
+```
 
 ### 2. Install Go Dependencies
 
 ```bash
 go mod tidy
+```
 
 ### 3. Build the Project
 
 ```bash
 go build -o xapiens_test
+```
 
 ### 4. Run the Project
 
 ```bash
 ./xapiens_test
+```
 
 ## Docker Setup
 
@@ -49,8 +53,10 @@ Build the Docker image:
 
 ```bash
 docker build -t xapiens_test .
+```
 
 Run the container:
 
 ```bash
 docker run -p 8080:8080 xapiens_test
+```
