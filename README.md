@@ -35,18 +35,6 @@ cd Xapiens_test
 go mod download
 ```
 
-### 3. Build the Project
-
-```bash
-go build -o xapiens_test
-```
-
-### 4. Run the Project
-
-```bash
-./xapiens_test
-```
-
 ## Docker Setup
 
 Build the Docker image:
