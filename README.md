@@ -1,9 +1,5 @@
 # Xapiens_test
 
-## Overview
-
-**Xapiens_test** is a Go-based application designed to handle modular services using a structured approach. The application includes separate layers for handling requests, middleware for processing, models for representing data, and services for implementing core business logic. It is containerized using Docker to simplify deployment and scalability.
-
 ## Features
 
 - **Modular Structure**: Handlers, middleware, models, and services are well-structured to ensure maintainability and scalability.
