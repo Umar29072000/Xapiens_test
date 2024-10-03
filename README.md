@@ -21,7 +21,7 @@ Before you begin, make sure you have the following tools installed:
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/Xapiens_test.git
+git clone <repository_url>
 cd Xapiens_test
 ```
 
